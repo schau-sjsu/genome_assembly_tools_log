@@ -32,7 +32,7 @@ All genomic data used to run the experiments can be found in this [shared drive]
 
 
 
-# Tools
+## Tools
 
 The following is a list of tools discussed in the paper:
 
@@ -56,7 +56,7 @@ The following is a list of tools discussed in the paper:
 
 
 
-# Contact
+## Contact
 
 For any questions, please contact:
 
