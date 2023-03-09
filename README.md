@@ -18,7 +18,7 @@ bioRxiv 2022.09.30.510284; doi: https://doi.org/10.1101/2022.09.30.510284
 
 ## Data
 
-All genomic data used to run the experiments can be found in this [shared drive](https://drive.google.com/drive/u/0/folders/0AHXdXJo2tlYhUk9PVA). The shared drive includes the following data:
+All genomic data used to run the experiments can be found in this [Google Drive folder](https://drive.google.com/drive/folders/1lq3H0CXwFahBczYqZacRO6HOX-n3_nXH?usp=share_link). The folder includes the following data:
 
 * Reference genomes and reads 
   * MBARC dataset
