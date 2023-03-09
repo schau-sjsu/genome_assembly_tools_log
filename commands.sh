@@ -3,7 +3,7 @@
 # In order to run these commands, change the paths accordingly.
 # All tools listed in this file are run from the command line.
 # The machine learning commands are noted in separate notebooks.
-# The input data files are provided here: https://drive.google.com/drive/u/0/folders/163FioZq0JmON4LGa-spdplsV3Qabme-a
+# The input data files are provided here: https://drive.google.com/drive/folders/163FioZq0JmON4LGa-spdplsV3Qabme-a?usp=share_link
 
 ## Assembly tools
 
@@ -108,7 +108,7 @@ echo $count
 ## Machine learning tools
 
 # DNABERT
-# Jupyter notebook is provided here: https://drive.google.com/drive/u/0/folders/1J2dXLEesjCKHrZgHAhBuZ6ZSX_CDTNLk
+# Jupyter notebook is provided here: https://drive.google.com/drive/folders/1J2dXLEesjCKHrZgHAhBuZ6ZSX_CDTNLk?usp=share_link
 # Follow the notebook up until the 'Visualizing Results' section
 # Execute the following commands from the command line
 
@@ -186,5 +186,5 @@ python run_finetune.py \
 
 # DeLUCS
 
-# The notebook can be found here: https://drive.google.com/drive/u/0/folders/1GBwolGHboBJYkMo85g5P-lmBpG1_r0Mz
-# The modified src files can be found here: https://drive.google.com/drive/u/0/folders/1PastpOraCb_a5JWlZABHao0928zkUyMP
+# The notebook can be found here: https://drive.google.com/drive/folders/1GBwolGHboBJYkMo85g5P-lmBpG1_r0Mz?usp=share_link
+# The modified src files can be found here: https://drive.google.com/drive/folders/1PastpOraCb_a5JWlZABHao0928zkUyMP?usp=share_link
