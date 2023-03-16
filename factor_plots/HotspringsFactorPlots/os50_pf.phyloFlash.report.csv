@@ -1,0 +1,23 @@
+version,phyloFlash v3.4
+library name,os50_pf
+forward read file,/scratch/rnd-rojas/assembly_stephanie/data/HotsprSampleOS50/Raw_Data/12774.3.284809.AAGACTCC-GGAGTCTT.fastq.gz
+reverse read file,
+cwd,/scratch/rnd-rojas/assembly_stephanie
+minimum mapping identity,70
+single ended mode,0
+input reads,102085680
+input read segments,204171360
+mapped SSU reads,38796
+mapped SSU read segments,106732
+mapping ratio,0.038
+detected median insert size,327
+used insert size,SE mode!
+insert size stddev,90
+runtime,9.45 minutes
+CPUs,56
+NTUs observed once,82
+NTUs observed twice,37
+NTUs observed three or more times,223
+NTU Chao1 richness estimate,313.865
+program command,phyloFlash.pl -lib os50_pf -read1 /scratch/rnd-rojas/assembly_stephanie/data/HotsprSampleOS50/Raw_Data/12774.3.284809.AAGACTCC-GGAGTCTT.fastq.gz -interleaved
+database path,/home/013879866/phyloFlash-pf3.4/138.1

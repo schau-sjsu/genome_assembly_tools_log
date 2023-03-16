@@ -1,0 +1,27 @@
+,Species,phyloFlash hit,phyloFlash miss,DeLUCS hit,DeLUCS miss
+0,Clostridium_perfringens,1,0,1,0
+1,Clostridium_thermocellum,1,0,1,0
+2,Coraliomargarita_akajimensis,1,0,1,0
+3,Corynebacterium_glutamicum,1,0,1,0
+4,Desulfosporosinus_acidiphilus,1,0,1,0
+5,Desulfosporosinus_meridiei,1,0,1,0
+6,Desulfotomaculum_gibsoniae,1,0,1,0
+7,E.coli,0,1,1,0
+8,Echinicola_vietnamensis,1,0,1,0
+9,Fervidobacterium_pennivorans,0,1,1,0
+10,Frateuria_aurantia,1,0,1,0
+11,Halovivax_ruber,1,0,1,0
+12,Hirschia_baltica,1,0,1,0
+13,Meiothermus_silvanus,1,0,1,0
+14,Natronobacterium_gregoryi,1,0,1,0
+15,Natronococcus_occultus,1,0,1,0
+16,Nocardiopsis_dassonvillei,0,1,1,0
+17,Olsenella_uli,1,0,0,1
+18,Pseudomonas_stutzeri,1,0,1,0
+19,Salmonella_bongori,0,1,0,1
+20,Salmonella_enterica,1,0,1,0
+21,Segniliparus_rotundus,1,0,0,1
+22,Spirochaeta_smaragdinae,1,0,1,0
+23,Streptococcus_pyogenes,1,0,0,1
+24,Terriglobus_roseus,1,0,1,0
+25,Thermobacillus_composti,1,0,1,0
