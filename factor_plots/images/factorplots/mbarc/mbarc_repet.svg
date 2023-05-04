@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1937 924" style="enable-background:new 0 0 1937 924;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;}
+	.st2{fill:none;stroke:#888888;stroke-miterlimit:10;}
+	.st3{display:none;fill:none;stroke:#888888;stroke-miterlimit:10;}
+	.st4{font-family:'Helvetica';}
+	.st5{font-size:20px;}
+	.st6{fill:#3B528B;}
+	.st7{font-family:'Helvetica-Bold';}
+	.st8{font-size:35px;}
+	.st9{display:none;}
+	.st10{font-size:23px;}
+	.st11{fill:#F7F7F7;}
+	.st12{fill:#E6E6E6;}
+	.st13{display:none;fill:#E6E6E6;}
+	.st14{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.st15{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;stroke-dasharray:15.1954,15.1954;}
+	.st16{font-family:'MyriadPro-Regular';}
+	.st17{font-size:30px;}
+</style>
+<rect class="st0" width="1937" height="924"/>
+<g transform="translate(94,54)">
+	<g>
+		<g transform="translate(0,0)">
+			<path class="st1" d="M0,0L0,0L0,0L0,0z"/>
+			<g>
+				<g>
+					<g transform="translate(0,0)">
+						<path class="st1" d="M0,0L0,0L0,0L0,0z"/>
+						<g>
+							<g>
+								<g transform="translate(0,0)">
+									<path class="st1" d="M0,0h1700v480H0V0z"/>
+									<g>
+										<g>
+											<g transform="translate(0.5,480.5)">
+												<path pointer-events="none" class="st1" d="M0,0L0,0L0,0L0,0z"/>
+												<g>
+													<g pointer-events="none">
+														<line class="st2" x1="0" y1="0" x2="1700" y2="0"/>
+													</g>
+												</g>
+												<path pointer-events="none" class="st3" d="M0,0"/>
+											</g>
+										</g>
+										<g>
+											<g transform="translate(0.5,0.5)">
+												<path pointer-events="none" class="st1" d="M0,0L0,0L0,0L0,0z"/>
+												<g>
+													<g pointer-events="none">
+														<line class="st2" x1="0" y1="480" x2="-5" y2="480"/>
+														<line class="st2" x1="0" y1="410" x2="-5" y2="410"/>
+														<line class="st2" x1="0" y1="341" x2="-5" y2="341"/>
+														<line class="st2" x1="0" y1="272" x2="-5" y2="272"/>
+														<line class="st2" x1="0" y1="204" x2="-5" y2="204"/>
+														<line class="st2" x1="0" y1="135" x2="-5" y2="135"/>
+														<line class="st2" x1="0" y1="68" x2="-5" y2="68"/>
+														<line class="st2" x1="0" y1="0" x2="-5" y2="0"/>
+													</g>
+													<g pointer-events="none">
+														<text transform="matrix(1 0 0 1 -52.5859 486)" class="st4 st5">0.0%</text>
+														<text transform="matrix(1 0 0 1 -52.5859 416.4093)" class="st4 st5">0.5%</text>
+														<text transform="matrix(1 0 0 1 -52.5859 347.1639)" class="st4 st5">1.0%</text>
+														<text transform="matrix(1 0 0 1 -52.5859 278.2605)" class="st4 st5">1.5%</text>
+														<text transform="matrix(1 0 0 1 -52.5859 209.6957)" class="st4 st5">2.0%</text>
+														<text transform="matrix(1 0 0 1 -52.5859 141.4662)" class="st4 st5">2.5%</text>
+														<text transform="matrix(1 0 0 1 -52.5859 73.5687)" class="st4 st5">3.0%</text>
+														<text transform="matrix(1 0 0 1 -52.5859 6)" class="st4 st5">3.5%</text>
+													</g>
+													<g pointer-events="none">
+														<line class="st2" x1="0" y1="480" x2="0" y2="0"/>
+													</g>
+												</g>
+												<path pointer-events="none" class="st3" d="M0,0"/>
+											</g>
+										</g>
+										<g>
+											<path class="st6" d="M12.7,49.6h40V480h-40L12.7,49.6z"/>
+											<path class="st6" d="M78.1,112h40v368h-40V112z"/>
+											<path class="st6" d="M143.5,173.5h40V480h-40V173.5z"/>
+											<path class="st6" d="M208.8,209.7h40V480h-40V209.7z"/>
+											<path class="st6" d="M274.2,226.4h40V480h-40V226.4z"/>
+											<path class="st6" d="M339.6,240.8h40V480h-40V240.8z"/>
+											<path class="st6" d="M405,246.1h40V480h-40V246.1z"/>
+											<path class="st6" d="M470.4,246.1h40V480h-40V246.1z"/>
+											<path class="st6" d="M535.8,258h40v222h-40V258z"/>
+											<path class="st6" d="M601.2,259.4h40V480h-40V259.4z"/>
+											<path class="st6" d="M666.5,282.2h40V480h-40V282.2z"/>
+											<path class="st6" d="M731.9,285.8h40V480h-40V285.8z"/>
+											<path class="st6" d="M797.3,293h40v187h-40V293z"/>
+											<path class="st6" d="M862.7,293.2h40V480h-40V293.2z"/>
+											<path class="st6" d="M928.1,306.7h40V480h-40V306.7z"/>
+											<path class="st6" d="M993.5,312.6h40V480h-40V312.6z"/>
+											<path class="st6" d="M1058.8,319.8h40V480h-40V319.8z"/>
+											<path class="st6" d="M1124.2,323.7h40V480h-40V323.7z"/>
+											<path class="st6" d="M1189.6,348.9h40V480h-40V348.9z"/>
+											<path class="st6" d="M1255,355.6h40V480h-40V355.6z"/>
+											<path class="st6" d="M1320.4,364.3h40V480h-40V364.3z"/>
+											<path class="st6" d="M1385.8,366.2h40V480h-40V366.2z"/>
+											<path class="st6" d="M1451.2,370.6h40V480h-40V370.6z"/>
+											<path class="st6" d="M1516.5,425.4h40V480h-40V425.4z"/>
+											<path class="st6" d="M1581.9,427.5h40V480h-40V427.5z"/>
+											<path class="st6" d="M1647.3,432.7h40V480h-40V432.7z"/>
+										</g>
+										<g>
+											<text transform="matrix(1 0 0 1 4.3378 45.5762)" class="st6 st7 st5">3.13%</text>
+											<text transform="matrix(1 0 0 1 69.7224 108.049)" class="st6 st7 st5">2.67%</text>
+											<text transform="matrix(1 0 0 1 135.107 169.5417)" class="st6 st7 st5">2.22%</text>
+											<text transform="matrix(1 0 0 1 200.4917 205.6786)" class="st6 st7 st5">1.96%</text>
+											<text transform="matrix(1 0 0 1 265.8763 222.3511)" class="st6 st7 st5">1.83%</text>
+											<text transform="matrix(1 0 0 1 331.2609 236.8413)" class="st6 st7 st5">1.73%</text>
+											<text transform="matrix(1 0 0 1 396.6455 242.0844)" class="st6 st7 st5">1.69%</text>
+											<text transform="matrix(1 0 0 1 462.0301 242.1439)" class="st6 st7 st5">1.69%</text>
+											<text transform="matrix(1 0 0 1 527.4147 253.9754)" class="st6 st7 st5">1.60%</text>
+											<text transform="matrix(1 0 0 1 592.7994 255.415)" class="st6 st7 st5">1.59%</text>
+											<text transform="matrix(1 0 0 1 658.184 278.1839)" class="st6 st7 st5">1.43%</text>
+											<text transform="matrix(1 0 0 1 723.5686 281.7545)" class="st6 st7 st5">1.40%</text>
+											<text transform="matrix(1 0 0 1 788.9532 288.9901)" class="st6 st7 st5">1.35%</text>
+											<text transform="matrix(1 0 0 1 854.3378 289.1965)" class="st6 st7 st5">1.35%</text>
+											<text transform="matrix(1 0 0 1 919.7224 302.7405)" class="st6 st7 st5">1.25%</text>
+											<text transform="matrix(1 0 0 1 985.1071 308.5791)" class="st6 st7 st5">1.21%</text>
+											<text transform="matrix(1 0 0 1 1050.4917 315.78)" class="st6 st7 st5">1.15%</text>
+											<text transform="matrix(1 0 0 1 1115.8762 319.6752)" class="st6 st7 st5">1.13%</text>
+											<text transform="matrix(1 0 0 1 1181.2609 344.8873)" class="st6 st7 st5">0.94%</text>
+											<text transform="matrix(1 0 0 1 1246.6455 351.5637)" class="st6 st7 st5">0.90%</text>
+											<text transform="matrix(1 0 0 1 1312.0302 360.3171)" class="st6 st7 st5">0.83%</text>
+											<text transform="matrix(1 0 0 1 1377.4148 362.1755)" class="st6 st7 st5">0.82%</text>
+											<text transform="matrix(1 0 0 1 1442.7993 366.636)" class="st6 st7 st5">0.79%</text>
+											<text transform="matrix(1 0 0 1 1508.184 421.449)" class="st6 st7 st5">0.39%</text>
+											<text transform="matrix(1 0 0 1 1573.5686 423.5248)" class="st6 st7 st5">0.38%</text>
+											<text transform="matrix(1 0 0 1 1638.9532 428.653)" class="st6 st7 st5">0.34%</text>
+										</g>
+										<g>
+											<g transform="translate(850,-49)">
+												<path pointer-events="none" class="st1" d="M0,0L0,0L0,0L0,0z"/>
+												<g>
+													<g pointer-events="none">
+														<text transform="matrix(1 0 0 1 -383.1201 28)" class="st7 st8">MBARC-26 Repetitiveness (Whole Genome %)</text>
+													</g>
+												</g>
+												<path pointer-events="none" class="st9" d="M0,0"/>
+											</g>
+										</g>
+									</g>
+									<path class="st9" d="M0,0"/>
+								</g>
+							</g>
+						</g>
+						<path class="st9" d="M0,0"/>
+					</g>
+				</g>
+				<g>
+					<g transform="translate(0,510)">
+						<path class="st1" d="M0,0h1700v128H0V0z"/>
+						<g>
+							<g>
+								<g transform="translate(0.5,128.5)">
+									<path pointer-events="none" class="st1" d="M0,0L0,0L0,0L0,0z"/>
+									<g>
+										<g pointer-events="none">
+											<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 -58.6792 115.499)" class="st4 st5">Halovivax_ruber</text>
+											<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 -77.3879 199.5923)" class="st4 st5">Coraliomargarita_akajimensis</text>
+											<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 2.9124 184.6768)" class="st4 st5">Natronobacterium_gregoryi</text>
+											<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 98.9636 154.0103)" class="st4 st5">Meiothermus_silvanus</text>
+											<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 141.5745 176.7837)" class="st4 st5">Clostridium_thermocellum</text>
+											<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 210.0872 173.6558)" class="st4 st5">Thermobacillus_composti</text>
+											<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 273.0962 176.0312)" class="st4 st5">Nocardiopsis_dassonvillei</text>
+											<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 373.0559 141.4561)" class="st4 st5">Salmonella_enterica</text>
+											<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 532.001 47.8955)" class="st4 st5">E.coli</text>
+											<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 437.8033 207.478)" class="st4 st5">Fervidobacterium_pennivorans</text>
+											<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 507.1101 203.5557)" class="st4 st5">Desulfosporosinus_acidiphilus</text>
+											<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 608.6648 167.3857)" class="st4 st5">Natronococcus_occultus</text>
+											<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 687.3906 154.0444)" class="st4 st5">Segniliparus_rotundus</text>
+											<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 777.9451 128.8745)" class="st4 st5">Frateuria_aurantia</text>
+											<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 800.0815 172.1226)" class="st4 st5">Streptococcus_pyogenes</text>
+											<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 943.3032 94.2856)" class="st4 st5">Olsenella_uli</text>
+											<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 970.1768 132.7969)" class="st4 st5">Terriglobus_roseus</text>
+											<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 969.5186 198.8394)" class="st4 st5">Desulfotomaculum_gibsoniae</text>
+											<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 1065.5698 168.1729)" class="st4 st5">Echinicola_vietnamensis</text>
+											<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 1136.4719 162.6553)" class="st4 st5">Clostridium_perfringens</text>
+											<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 1207.3394 157.1729)" class="st4 st5">Pseudomonas_stutzeri</text>
+											<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 1242.8652 187.0312)" class="st4 st5">Desulfosporosinus_meridiei</text>
+											<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 1356.9602 138.3213)" class="st4 st5">Salmonella_bongori</text>
+											<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 1382.2524 178.4136)" class="st4 st5">Spirochaeta_smaragdinae</text>
+											<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 1512.9131 113.1372)" class="st4 st5">Hirschia_baltica</text>
+											<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 1490.2686 201.1665)" class="st4 st5">Corynebacterium_glutamicum</text>
+										</g>
+										<g pointer-events="none">
+											<text transform="matrix(1 0 0 1 806.5269 222)" class="st7 st10">Species</text>
+										</g>
+									</g>
+									<path pointer-events="none" class="st9" d="M0,0"/>
+								</g>
+							</g>
+							<g>
+								<g transform="translate(1700.5,0.5)">
+									<path pointer-events="none" class="st1" d="M0,0L0,0L0,0L0,0z"/>
+									<g>
+										<g pointer-events="none">
+											<text transform="matrix(1 0 0 1 2 37.5)" class="st7 st5">phyloFlash hit</text>
+											<text transform="matrix(1 0 0 1 2 101.5)" class="st7 st5">DeLUCS hit</text>
+										</g>
+									</g>
+									<path pointer-events="none" class="st9" d="M0,0"/>
+								</g>
+							</g>
+							<g>
+								<path class="st6" d="M42.7,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S42.7,26.5,42.7,32"/>
+								<path class="st6" d="M42.7,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S42.7,90.5,42.7,96"/>
+								<path class="st6" d="M108.1,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S108.1,26.5,108.1,32"/>
+								<path class="st6" d="M108.1,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S108.1,90.5,108.1,96"/>
+								<path class="st6" d="M173.5,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S173.5,26.5,173.5,32"/>
+								<path class="st6" d="M173.5,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S173.5,90.5,173.5,96"/>
+								<path class="st6" d="M238.8,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S238.8,26.5,238.8,32"/>
+								<path class="st6" d="M238.8,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S238.8,90.5,238.8,96"/>
+								<path class="st6" d="M304.2,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S304.2,26.5,304.2,32"/>
+								<path class="st6" d="M304.2,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S304.2,90.5,304.2,96"/>
+								<path class="st6" d="M369.6,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S369.6,26.5,369.6,32"/>
+								<path class="st6" d="M369.6,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S369.6,90.5,369.6,96"/>
+								<path class="st6" d="M435,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S435,26.5,435,32"/>
+								<path class="st6" d="M435,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S435,90.5,435,96"/>
+								<path class="st6" d="M500.4,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S500.4,26.5,500.4,32"/>
+								<path class="st6" d="M500.4,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S500.4,90.5,500.4,96"/>
+								<path class="st6" d="M565.8,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S565.8,26.5,565.8,32"/>
+								<path class="st6" d="M565.8,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S565.8,90.5,565.8,96"/>
+								<path class="st6" d="M631.2,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S631.2,26.5,631.2,32"/>
+								<path class="st6" d="M631.2,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S631.2,90.5,631.2,96"/>
+								<path class="st6" d="M696.5,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S696.5,26.5,696.5,32"/>
+								<path class="st6" d="M696.5,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S696.5,90.5,696.5,96"/>
+								<path class="st6" d="M761.9,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S761.9,26.5,761.9,32"/>
+								<path class="st6" d="M761.9,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S761.9,90.5,761.9,96"/>
+								<path class="st6" d="M827.3,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S827.3,26.5,827.3,32"/>
+								<path class="st6" d="M827.3,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S827.3,90.5,827.3,96"/>
+								<path class="st6" d="M892.7,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S892.7,26.5,892.7,32"/>
+								<path class="st6" d="M892.7,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S892.7,90.5,892.7,96"/>
+								<path class="st6" d="M958.1,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S958.1,26.5,958.1,32"/>
+								<path class="st6" d="M958.1,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S958.1,90.5,958.1,96"/>
+								<path class="st6" d="M1023.5,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1023.5,26.5,1023.5,32"/>
+								<path class="st6" d="M1023.5,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1023.5,90.5,1023.5,96"/>
+								<path class="st6" d="M1088.8,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1088.8,26.5,1088.8,32"/>
+								<path class="st6" d="M1088.8,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1088.8,90.5,1088.8,96"/>
+								<path class="st6" d="M1154.2,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1154.2,26.5,1154.2,32"/>
+								<path class="st6" d="M1154.2,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1154.2,90.5,1154.2,96"/>
+								<path class="st6" d="M1219.6,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1219.6,26.5,1219.6,32"/>
+								<path class="st6" d="M1219.6,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1219.6,90.5,1219.6,96"/>
+								<path class="st6" d="M1285,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1285,26.5,1285,32"/>
+								<path class="st6" d="M1285,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1285,90.5,1285,96"/>
+								<path class="st6" d="M1350.4,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1350.4,26.5,1350.4,32"/>
+								<path class="st6" d="M1350.4,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1350.4,90.5,1350.4,96"/>
+								<path class="st6" d="M1415.8,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1415.8,26.5,1415.8,32"/>
+								<path class="st6" d="M1415.8,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1415.8,90.5,1415.8,96"/>
+								<path class="st6" d="M1481.2,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1481.2,26.5,1481.2,32"/>
+								<path class="st6" d="M1481.2,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1481.2,90.5,1481.2,96"/>
+								<path class="st6" d="M1546.5,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1546.5,26.5,1546.5,32"/>
+								<path class="st6" d="M1546.5,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1546.5,90.5,1546.5,96"/>
+								<path class="st6" d="M1611.9,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1611.9,26.5,1611.9,32"/>
+								<path class="st6" d="M1611.9,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1611.9,90.5,1611.9,96"/>
+								<path class="st6" d="M1677.3,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1677.3,26.5,1677.3,32"/>
+								<path class="st6" d="M1677.3,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1677.3,90.5,1677.3,96"/>
+							</g>
+							<g pointer-events="none">
+								<path class="st11" d="M0,64h65.4v64H0V64z"/>
+								<path class="st11" d="M65.4,64h65.4v64H65.4V64z"/>
+								<path class="st11" d="M130.8,64h65.4v64h-65.4V64z"/>
+								<path class="st11" d="M196.2,64h65.4v64h-65.4V64z"/>
+								<path class="st11" d="M261.5,64h65.4v64h-65.4V64z"/>
+								<path class="st11" d="M326.9,64h65.4v64h-65.4V64z"/>
+								<path class="st11" d="M392.3,64h65.4v64h-65.4V64z"/>
+								<path class="st11" d="M457.7,64h65.4v64h-65.4L457.7,64z"/>
+								<path class="st11" d="M523.1,64h65.4v64h-65.4V64z"/>
+								<path class="st11" d="M588.5,64h65.4v64h-65.4V64z"/>
+								<path class="st11" d="M653.8,64h65.4v64h-65.4L653.8,64z"/>
+								<path class="st11" d="M719.2,64h65.4v64h-65.4L719.2,64z"/>
+								<path class="st11" d="M784.6,64H850v64h-65.4V64z"/>
+								<path class="st11" d="M850,64h65.4v64H850V64z"/>
+								<path class="st11" d="M915.4,64h65.4v64h-65.4V64z"/>
+								<path class="st11" d="M980.8,64h65.4v64h-65.4L980.8,64z"/>
+								<path class="st11" d="M1046.2,64h65.4v64h-65.4V64z"/>
+								<path class="st11" d="M1111.5,64h65.4v64h-65.4V64z"/>
+								<path class="st11" d="M1176.9,64h65.4v64h-65.4V64z"/>
+								<path class="st11" d="M1242.3,64h65.4v64h-65.4V64z"/>
+								<path class="st11" d="M1307.7,64h65.4v64h-65.4V64z"/>
+								<path class="st11" d="M1373.1,64h65.4v64h-65.4V64z"/>
+								<path class="st11" d="M1438.5,64h65.4v64h-65.4V64z"/>
+								<path class="st11" d="M1503.8,64h65.4v64h-65.4V64z"/>
+								<path class="st11" d="M1569.2,64h65.4v64h-65.4V64z"/>
+								<path class="st11" d="M1634.6,64h65.4v64h-65.4V64z"/>
+							</g>
+							<g pointer-events="none">
+								<path class="st6" d="M42.7,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S42.7,26.5,42.7,32"/>
+								<path class="st6" d="M42.7,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S42.7,90.5,42.7,96"/>
+								<path class="st6" d="M108.1,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S108.1,26.5,108.1,32"/>
+								<path class="st6" d="M108.1,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S108.1,90.5,108.1,96"/>
+								<path class="st6" d="M173.5,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S173.5,26.5,173.5,32"/>
+								<path class="st6" d="M173.5,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S173.5,90.5,173.5,96"/>
+								<path class="st6" d="M238.8,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S238.8,26.5,238.8,32"/>
+								<path class="st6" d="M238.8,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S238.8,90.5,238.8,96"/>
+								<path class="st6" d="M304.2,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S304.2,26.5,304.2,32"/>
+								<path class="st6" d="M304.2,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S304.2,90.5,304.2,96"/>
+								<path class="st6" d="M369.6,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S369.6,26.5,369.6,32"/>
+								<path class="st6" d="M369.6,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S369.6,90.5,369.6,96"/>
+								<path class="st6" d="M435,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S435,26.5,435,32"/>
+								<path class="st6" d="M435,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S435,90.5,435,96"/>
+								<path class="st6" d="M500.4,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S500.4,26.5,500.4,32"/>
+								<path class="st6" d="M500.4,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S500.4,90.5,500.4,96"/>
+								<path class="st6" d="M565.8,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S565.8,26.5,565.8,32"/>
+								<path class="st6" d="M565.8,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S565.8,90.5,565.8,96"/>
+								<path class="st6" d="M631.2,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S631.2,26.5,631.2,32"/>
+								<path class="st6" d="M631.2,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S631.2,90.5,631.2,96"/>
+								<path class="st6" d="M696.5,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S696.5,26.5,696.5,32"/>
+								<path class="st6" d="M696.5,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S696.5,90.5,696.5,96"/>
+								<path class="st6" d="M761.9,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S761.9,26.5,761.9,32"/>
+								<path class="st6" d="M761.9,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S761.9,90.5,761.9,96"/>
+								<path class="st6" d="M827.3,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S827.3,26.5,827.3,32"/>
+								<path class="st6" d="M827.3,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S827.3,90.5,827.3,96"/>
+								<path class="st6" d="M892.7,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S892.7,26.5,892.7,32"/>
+								<path class="st6" d="M892.7,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S892.7,90.5,892.7,96"/>
+								<path class="st6" d="M958.1,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S958.1,26.5,958.1,32"/>
+								<path class="st6" d="M958.1,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S958.1,90.5,958.1,96"/>
+								<path class="st6" d="M1023.5,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1023.5,26.5,1023.5,32"/>
+								<path class="st6" d="M1023.5,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1023.5,90.5,1023.5,96"/>
+								<path class="st6" d="M1088.8,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1088.8,26.5,1088.8,32"/>
+								<path class="st6" d="M1088.8,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1088.8,90.5,1088.8,96"/>
+								<path class="st6" d="M1154.2,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1154.2,26.5,1154.2,32"/>
+								<path class="st6" d="M1154.2,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1154.2,90.5,1154.2,96"/>
+								<path class="st6" d="M1219.6,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1219.6,26.5,1219.6,32"/>
+								<path class="st6" d="M1219.6,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1219.6,90.5,1219.6,96"/>
+								<path class="st6" d="M1285,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1285,26.5,1285,32"/>
+								<path class="st6" d="M1285,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1285,90.5,1285,96"/>
+								<path class="st6" d="M1350.4,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1350.4,26.5,1350.4,32"/>
+								<path class="st6" d="M1350.4,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1350.4,90.5,1350.4,96"/>
+								<path class="st6" d="M1415.8,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1415.8,26.5,1415.8,32"/>
+								<path class="st6" d="M1415.8,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1415.8,90.5,1415.8,96"/>
+								<path class="st6" d="M1481.2,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1481.2,26.5,1481.2,32"/>
+								<path class="st6" d="M1481.2,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1481.2,90.5,1481.2,96"/>
+								<path class="st6" d="M1546.5,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1546.5,26.5,1546.5,32"/>
+								<path class="st6" d="M1546.5,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1546.5,90.5,1546.5,96"/>
+								<path class="st6" d="M1611.9,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1611.9,26.5,1611.9,32"/>
+								<path class="st6" d="M1611.9,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1611.9,90.5,1611.9,96"/>
+								<path class="st6" d="M1677.3,32c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1677.3,26.5,1677.3,32"/>
+								<path class="st6" d="M1677.3,96c0,5.5-4.5,10-10,10s-10-4.5-10-10s4.5-10,10-10S1677.3,90.5,1677.3,96"/>
+							</g>
+							<g pointer-events="none">
+								<path class="st12" d="M435.4,32c0,5.7-4.6,10.4-10.4,10.4s-10.4-4.6-10.4-10.4s4.6-10.4,10.4-10.4S435.4,26.3,435.4,32"/>
+								<path class="st12" d="M566.1,32c0,5.7-4.6,10.4-10.4,10.4s-10.4-4.6-10.4-10.4s4.6-10.4,10.4-10.4S566.1,26.3,566.1,32"/>
+								<path class="st12" d="M631.5,32c0,5.7-4.6,10.4-10.4,10.4s-10.4-4.6-10.4-10.4s4.6-10.4,10.4-10.4S631.5,26.3,631.5,32"/>
+								<path class="st12" d="M827.7,96c0,5.7-4.6,10.4-10.4,10.4s-10.4-4.6-10.4-10.4s4.6-10.4,10.4-10.4S827.7,90.3,827.7,96"/>
+								<path class="st12" d="M958.4,96c0,5.7-4.6,10.4-10.4,10.4s-10.4-4.6-10.4-10.4s4.6-10.4,10.4-10.4S958.4,90.3,958.4,96"/>
+								<path class="st12" d="M1023.8,96c0,5.7-4.6,10.4-10.4,10.4s-10.4-4.6-10.4-10.4s4.6-10.4,10.4-10.4S1023.8,90.3,1023.8,96"
+									/>
+								<path class="st12" d="M1481.5,32c0,5.7-4.6,10.4-10.4,10.4s-10.4-4.6-10.4-10.4s4.6-10.4,10.4-10.4S1481.5,26.3,1481.5,32"
+									/>
+								<path class="st12" d="M1481.5,96c0,5.7-4.6,10.4-10.4,10.4s-10.4-4.6-10.4-10.4s4.6-10.4,10.4-10.4S1481.5,90.3,1481.5,96"
+									/>
+							</g>
+						</g>
+						<path class="st13" d="M0,0"/>
+					</g>
+				</g>
+			</g>
+			<path class="st13" d="M0,0"/>
+		</g>
+	</g>
+</g>
+<g>
+	<line x1="156.6" y1="49.6" x2="160.4" y2="687.6"/>
+	<g>
+		<line class="st14" x1="156.6" y1="49.6" x2="156.6" y2="57.1"/>
+		<line class="st15" x1="156.7" y1="72.3" x2="160.3" y2="672.5"/>
+		<line class="st14" x1="160.3" y1="680.1" x2="160.4" y2="687.6"/>
+	</g>
+</g>
+<g>
+	<line x1="1268.4" y1="54.8" x2="1272.2" y2="692.8"/>
+	<g>
+		<line class="st14" x1="1268.4" y1="54.8" x2="1268.5" y2="62.3"/>
+		<line class="st15" x1="1268.6" y1="77.5" x2="1272.1" y2="677.7"/>
+		<line class="st14" x1="1272.2" y1="685.3" x2="1272.2" y2="692.8"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 95.9979 65.6689)" class="st16 st17">High</text>
+<text transform="matrix(1 0 0 1 705.1534 128.0691)" class="st16 st17">Medium</text>
+<text transform="matrix(1 0 0 1 1298.8152 127.9598)" class="st16 st17">Low</text>
+</svg>
