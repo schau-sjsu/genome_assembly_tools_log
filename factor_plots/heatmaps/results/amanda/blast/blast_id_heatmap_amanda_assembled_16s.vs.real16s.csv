@@ -1,0 +1,571 @@
+Query ID,Subject ID,Percent identity
+1_21.709937,Roseiflexus sp. RS-1,100
+1_21.709937,Roseiflexus castenholzii DSM 13941,95.5
+1_21.709937,Thermodesulfovibrio sp. N1,75
+1_21.709937,Thermodesulfovibrio thiophilus DSM 17215,73.8
+1_21.709937,Pseudothermotoga hypogea DSM 11164 = NBRC 106472,72.9
+1_21.709937,Thermocrinis ruber strain DSM 23557,73.1
+1_21.709937,Synechococcus sp. JA-2-3B'a(2-13),77.9
+1_21.709937,Synechococcus sp. JA-3-3Ab,77.6
+1_21.709937,Chloracidobacterium thermophilum B,74
+1_21.709937,Pseudanabaena sp. PCC 7367,75.1
+1_21.709937,Pseudanabaena sp. ABRG5-3,74.6
+1_21.709937,Gloeomargarita lithophora Alchichica-D10,76.2
+1_21.709937,Chloroflexus aggregans DSM 9485,84.6
+1_21.709937,Chloroflexus islandicus strain isl-2,85.7
+1_21.709937,Candidatus Thermochlorobacteriaceae bacterium GBChlB,73.7
+1_21.709937,Meiothermus silvanus DSM 9946,76.4
+1_21.709937,Pseudothermotoga lettingae TMO,73.1
+1_21.709937,Caldimicrobium thiodismutans strain TF1,73.5
+1_21.709937,Elioraea tepidiphila DSM 17972,76.1
+1_21.709937,Thermus brockianus strain GE-1,75.6
+1_21.709937,Thermus aquaticus Y51MC23,75.4
+1_21.709937,Meiothermus ruber DSM 1279,75.8
+1_21.709937,Meiothermus taiwanensis WR-220,75.6
+1_21.709937,Chloroflexus aurantiacus Y-400-fl,85.4
+1_21.709937,Chloroflexus aurantiacus J-10-fl,85.4
+1_21.709937,Chloroflexus sp. Y-396-1,86.3
+1_21.709937,Chloroflexus sp. MS-G,85.7
+1_21.709937,Oscillochloris trichoides DG-6,83.6
+1_21.709937,Ignavibacterium album JCM 16511,73.5
+1_21.709937,Candidatus Solibacter usitatus Ellin6076,73.3
+2_7.586068,Roseiflexus sp. RS-1,75
+2_7.586068,Roseiflexus castenholzii DSM 13941,75.7
+2_7.586068,Thermodesulfovibrio sp. N1,100
+2_7.586068,Thermodesulfovibrio thiophilus DSM 17215,95.5
+2_7.586068,Pseudothermotoga hypogea DSM 11164 = NBRC 106472,79.5
+2_7.586068,Thermocrinis ruber strain DSM 23557,76.2
+2_7.586068,Synechococcus sp. JA-2-3B'a(2-13),79.4
+2_7.586068,Synechococcus sp. JA-3-3Ab,79.5
+2_7.586068,Chloracidobacterium thermophilum B,78
+2_7.586068,Pseudanabaena sp. PCC 7367,76.7
+2_7.586068,Pseudanabaena sp. ABRG5-3,76.1
+2_7.586068,Gloeomargarita lithophora Alchichica-D10,78.5
+2_7.586068,Chloroflexus aggregans DSM 9485,74.8
+2_7.586068,Chloroflexus islandicus strain isl-2,75
+2_7.586068,Candidatus Thermochlorobacteriaceae bacterium GBChlB,76.8
+2_7.586068,Meiothermus silvanus DSM 9946,78.2
+2_7.586068,Pseudothermotoga lettingae TMO,78.2
+2_7.586068,Caldimicrobium thiodismutans strain TF1,79.5
+2_7.586068,Elioraea tepidiphila DSM 17972,80
+2_7.586068,Thermus brockianus strain GE-1,78.1
+2_7.586068,Thermus aquaticus Y51MC23,78.4
+2_7.586068,Meiothermus ruber DSM 1279,75.7
+2_7.586068,Meiothermus taiwanensis WR-220,76
+2_7.586068,Chloroflexus aurantiacus Y-400-fl,75.6
+2_7.586068,Chloroflexus aurantiacus J-10-fl,75.6
+2_7.586068,Chloroflexus sp. Y-396-1,75.4
+2_7.586068,Chloroflexus sp. MS-G,75.2
+2_7.586068,Oscillochloris trichoides DG-6,76.4
+2_7.586068,Ignavibacterium album JCM 16511,78.9
+2_7.586068,Candidatus Solibacter usitatus Ellin6076,78.3
+3_4.198893,Roseiflexus sp. RS-1,72.9
+3_4.198893,Roseiflexus castenholzii DSM 13941,73.3
+3_4.198893,Thermodesulfovibrio sp. N1,79.5
+3_4.198893,Thermodesulfovibrio thiophilus DSM 17215,78.5
+3_4.198893,Pseudothermotoga hypogea DSM 11164 = NBRC 106472,100
+3_4.198893,Thermocrinis ruber strain DSM 23557,78.4
+3_4.198893,Synechococcus sp. JA-2-3B'a(2-13),76.2
+3_4.198893,Synechococcus sp. JA-3-3Ab,76.8
+3_4.198893,Chloracidobacterium thermophilum B,75.8
+3_4.198893,Pseudanabaena sp. PCC 7367,74.5
+3_4.198893,Pseudanabaena sp. ABRG5-3,73.9
+3_4.198893,Gloeomargarita lithophora Alchichica-D10,75.3
+3_4.198893,Chloroflexus aggregans DSM 9485,72.6
+3_4.198893,Chloroflexus islandicus strain isl-2,72.5
+3_4.198893,Candidatus Thermochlorobacteriaceae bacterium GBChlB,74.2
+3_4.198893,Meiothermus silvanus DSM 9946,75.6
+3_4.198893,Pseudothermotoga lettingae TMO,94
+3_4.198893,Caldimicrobium thiodismutans strain TF1,80
+3_4.198893,Elioraea tepidiphila DSM 17972,75.7
+3_4.198893,Thermus brockianus strain GE-1,78.2
+3_4.198893,Thermus aquaticus Y51MC23,78.3
+3_4.198893,Meiothermus ruber DSM 1279,75
+3_4.198893,Meiothermus taiwanensis WR-220,75
+3_4.198893,Chloroflexus aurantiacus Y-400-fl,72.8
+3_4.198893,Chloroflexus aurantiacus J-10-fl,72.8
+3_4.198893,Chloroflexus sp. Y-396-1,73.1
+3_4.198893,Chloroflexus sp. MS-G,73.1
+3_4.198893,Oscillochloris trichoides DG-6,72.6
+3_4.198893,Ignavibacterium album JCM 16511,77.4
+3_4.198893,Candidatus Solibacter usitatus Ellin6076,75.7
+4_25.740241,Roseiflexus sp. RS-1,77.9
+4_25.740241,Roseiflexus castenholzii DSM 13941,78.7
+4_25.740241,Thermodesulfovibrio sp. N1,79.4
+4_25.740241,Thermodesulfovibrio thiophilus DSM 17215,78.3
+4_25.740241,Pseudothermotoga hypogea DSM 11164 = NBRC 106472,76.2
+4_25.740241,Thermocrinis ruber strain DSM 23557,73.3
+4_25.740241,Synechococcus sp. JA-2-3B'a(2-13),100
+4_25.740241,Synechococcus sp. JA-3-3Ab,96.7
+4_25.740241,Chloracidobacterium thermophilum B,78.1
+4_25.740241,Pseudanabaena sp. PCC 7367,87.2
+4_25.740241,Pseudanabaena sp. ABRG5-3,86.6
+4_25.740241,Gloeomargarita lithophora Alchichica-D10,87.5
+4_25.740241,Chloroflexus aggregans DSM 9485,75.6
+4_25.740241,Chloroflexus islandicus strain isl-2,75.8
+4_25.740241,Candidatus Thermochlorobacteriaceae bacterium GBChlB,78.9
+4_25.740241,Meiothermus silvanus DSM 9946,77.6
+4_25.740241,Pseudothermotoga lettingae TMO,76.1
+4_25.740241,Caldimicrobium thiodismutans strain TF1,76
+4_25.740241,Elioraea tepidiphila DSM 17972,80.2
+4_25.740241,Thermus brockianus strain GE-1,76.7
+4_25.740241,Thermus aquaticus Y51MC23,76.5
+4_25.740241,Meiothermus ruber DSM 1279,77.7
+4_25.740241,Meiothermus taiwanensis WR-220,77.8
+4_25.740241,Chloroflexus aurantiacus Y-400-fl,76.4
+4_25.740241,Chloroflexus aurantiacus J-10-fl,76.4
+4_25.740241,Chloroflexus sp. Y-396-1,76.1
+4_25.740241,Chloroflexus sp. MS-G,76.1
+4_25.740241,Oscillochloris trichoides DG-6,77.1
+4_25.740241,Ignavibacterium album JCM 16511,75.9
+4_25.740241,Candidatus Solibacter usitatus Ellin6076,76.8
+5_5.552155,Roseiflexus sp. RS-1,74
+5_5.552155,Roseiflexus castenholzii DSM 13941,73.7
+5_5.552155,Thermodesulfovibrio sp. N1,78
+5_5.552155,Thermodesulfovibrio thiophilus DSM 17215,78
+5_5.552155,Pseudothermotoga hypogea DSM 11164 = NBRC 106472,75.8
+5_5.552155,Thermocrinis ruber strain DSM 23557,71.8
+5_5.552155,Synechococcus sp. JA-2-3B'a(2-13),78.2
+5_5.552155,Synechococcus sp. JA-3-3Ab,78.8
+5_5.552155,Chloracidobacterium thermophilum B,100
+5_5.552155,Pseudanabaena sp. PCC 7367,77.2
+5_5.552155,Pseudanabaena sp. ABRG5-3,76.4
+5_5.552155,Gloeomargarita lithophora Alchichica-D10,76.1
+5_5.552155,Chloroflexus aggregans DSM 9485,74
+5_5.552155,Chloroflexus islandicus strain isl-2,74.6
+5_5.552155,Candidatus Thermochlorobacteriaceae bacterium GBChlB,76.1
+5_5.552155,Meiothermus silvanus DSM 9946,76.4
+5_5.552155,Pseudothermotoga lettingae TMO,75.5
+5_5.552155,Caldimicrobium thiodismutans strain TF1,75.9
+5_5.552155,Elioraea tepidiphila DSM 17972,78.8
+5_5.552155,Thermus brockianus strain GE-1,74.8
+5_5.552155,Thermus aquaticus Y51MC23,74.7
+5_5.552155,Meiothermus ruber DSM 1279,75.7
+5_5.552155,Meiothermus taiwanensis WR-220,75.6
+5_5.552155,Chloroflexus aurantiacus Y-400-fl,74.4
+5_5.552155,Chloroflexus aurantiacus J-10-fl,74.4
+5_5.552155,Chloroflexus sp. Y-396-1,74.9
+5_5.552155,Chloroflexus sp. MS-G,74.5
+5_5.552155,Oscillochloris trichoides DG-6,75.3
+5_5.552155,Ignavibacterium album JCM 16511,77.2
+5_5.552155,Candidatus Solibacter usitatus Ellin6076,82.2
+6_13.519676,Roseiflexus sp. RS-1,75.1
+6_13.519676,Roseiflexus castenholzii DSM 13941,75.2
+6_13.519676,Thermodesulfovibrio sp. N1,76.7
+6_13.519676,Thermodesulfovibrio thiophilus DSM 17215,76.9
+6_13.519676,Pseudothermotoga hypogea DSM 11164 = NBRC 106472,74.5
+6_13.519676,Thermocrinis ruber strain DSM 23557,71.7
+6_13.519676,Synechococcus sp. JA-2-3B'a(2-13),87.2
+6_13.519676,Synechococcus sp. JA-3-3Ab,87.3
+6_13.519676,Chloracidobacterium thermophilum B,77.2
+6_13.519676,Pseudanabaena sp. PCC 7367,100
+6_13.519676,Pseudanabaena sp. ABRG5-3,89.4
+6_13.519676,Gloeomargarita lithophora Alchichica-D10,87.6
+6_13.519676,Chloroflexus aggregans DSM 9485,74.1
+6_13.519676,Chloroflexus islandicus strain isl-2,74.8
+6_13.519676,Candidatus Thermochlorobacteriaceae bacterium GBChlB,77.4
+6_13.519676,Meiothermus silvanus DSM 9946,77.1
+6_13.519676,Pseudothermotoga lettingae TMO,74.4
+6_13.519676,Caldimicrobium thiodismutans strain TF1,75.3
+6_13.519676,Elioraea tepidiphila DSM 17972,78.3
+6_13.519676,Thermus brockianus strain GE-1,75.6
+6_13.519676,Thermus aquaticus Y51MC23,75.1
+6_13.519676,Meiothermus ruber DSM 1279,76.9
+6_13.519676,Meiothermus taiwanensis WR-220,77
+6_13.519676,Chloroflexus aurantiacus Y-400-fl,74.8
+6_13.519676,Chloroflexus aurantiacus J-10-fl,74.8
+6_13.519676,Chloroflexus sp. Y-396-1,74.8
+6_13.519676,Chloroflexus sp. MS-G,74.5
+6_13.519676,Oscillochloris trichoides DG-6,75.5
+6_13.519676,Ignavibacterium album JCM 16511,76.1
+6_13.519676,Candidatus Solibacter usitatus Ellin6076,77.2
+7_17.053201,Roseiflexus sp. RS-1,74.6
+7_17.053201,Roseiflexus castenholzii DSM 13941,75
+7_17.053201,Thermodesulfovibrio sp. N1,76.1
+7_17.053201,Thermodesulfovibrio thiophilus DSM 17215,75.6
+7_17.053201,Pseudothermotoga hypogea DSM 11164 = NBRC 106472,73.9
+7_17.053201,Thermocrinis ruber strain DSM 23557,72.4
+7_17.053201,Synechococcus sp. JA-2-3B'a(2-13),86.6
+7_17.053201,Synechococcus sp. JA-3-3Ab,85.7
+7_17.053201,Chloracidobacterium thermophilum B,76.4
+7_17.053201,Pseudanabaena sp. PCC 7367,89.4
+7_17.053201,Pseudanabaena sp. ABRG5-3,100
+7_17.053201,Gloeomargarita lithophora Alchichica-D10,86.3
+7_17.053201,Chloroflexus aggregans DSM 9485,74.5
+7_17.053201,Chloroflexus islandicus strain isl-2,75.1
+7_17.053201,Candidatus Thermochlorobacteriaceae bacterium GBChlB,78.1
+7_17.053201,Meiothermus silvanus DSM 9946,77.2
+7_17.053201,Pseudothermotoga lettingae TMO,73.8
+7_17.053201,Caldimicrobium thiodismutans strain TF1,75.4
+7_17.053201,Elioraea tepidiphila DSM 17972,78.9
+7_17.053201,Thermus brockianus strain GE-1,75.5
+7_17.053201,Thermus aquaticus Y51MC23,75.3
+7_17.053201,Meiothermus ruber DSM 1279,77.5
+7_17.053201,Meiothermus taiwanensis WR-220,77.6
+7_17.053201,Chloroflexus aurantiacus Y-400-fl,74.8
+7_17.053201,Chloroflexus aurantiacus J-10-fl,74.8
+7_17.053201,Chloroflexus sp. Y-396-1,75
+7_17.053201,Chloroflexus sp. MS-G,74.9
+7_17.053201,Oscillochloris trichoides DG-6,75.4
+7_17.053201,Ignavibacterium album JCM 16511,76.9
+7_17.053201,Candidatus Solibacter usitatus Ellin6076,77.1
+8_6.341530,Roseiflexus sp. RS-1,76.2
+8_6.341530,Roseiflexus castenholzii DSM 13941,76.7
+8_6.341530,Thermodesulfovibrio sp. N1,78.5
+8_6.341530,Thermodesulfovibrio thiophilus DSM 17215,78.3
+8_6.341530,Pseudothermotoga hypogea DSM 11164 = NBRC 106472,75.3
+8_6.341530,Thermocrinis ruber strain DSM 23557,73.3
+8_6.341530,Synechococcus sp. JA-2-3B'a(2-13),87.5
+8_6.341530,Synechococcus sp. JA-3-3Ab,87.6
+8_6.341530,Chloracidobacterium thermophilum B,76.1
+8_6.341530,Pseudanabaena sp. PCC 7367,87.6
+8_6.341530,Pseudanabaena sp. ABRG5-3,86.3
+8_6.341530,Gloeomargarita lithophora Alchichica-D10,100
+8_6.341530,Chloroflexus aggregans DSM 9485,75.9
+8_6.341530,Chloroflexus islandicus strain isl-2,75.8
+8_6.341530,Candidatus Thermochlorobacteriaceae bacterium GBChlB,76.6
+8_6.341530,Meiothermus silvanus DSM 9946,78.4
+8_6.341530,Pseudothermotoga lettingae TMO,74.8
+8_6.341530,Caldimicrobium thiodismutans strain TF1,76.1
+8_6.341530,Elioraea tepidiphila DSM 17972,79.2
+8_6.341530,Thermus brockianus strain GE-1,76.2
+8_6.341530,Thermus aquaticus Y51MC23,76.7
+8_6.341530,Meiothermus ruber DSM 1279,77.6
+8_6.341530,Meiothermus taiwanensis WR-220,77.8
+8_6.341530,Chloroflexus aurantiacus Y-400-fl,76.7
+8_6.341530,Chloroflexus aurantiacus J-10-fl,76.7
+8_6.341530,Chloroflexus sp. Y-396-1,77.1
+8_6.341530,Chloroflexus sp. MS-G,76.7
+8_6.341530,Oscillochloris trichoides DG-6,75.8
+8_6.341530,Ignavibacterium album JCM 16511,76.8
+8_6.341530,Candidatus Solibacter usitatus Ellin6076,76.7
+9_7.180821,Roseiflexus sp. RS-1,84.7
+9_7.180821,Roseiflexus castenholzii DSM 13941,85.3
+9_7.180821,Thermodesulfovibrio sp. N1,74.9
+9_7.180821,Thermodesulfovibrio thiophilus DSM 17215,74
+9_7.180821,Pseudothermotoga hypogea DSM 11164 = NBRC 106472,72.5
+9_7.180821,Thermocrinis ruber strain DSM 23557,73.4
+9_7.180821,Synechococcus sp. JA-2-3B'a(2-13),75.5
+9_7.180821,Synechococcus sp. JA-3-3Ab,76
+9_7.180821,Chloracidobacterium thermophilum B,73.9
+9_7.180821,Pseudanabaena sp. PCC 7367,74
+9_7.180821,Pseudanabaena sp. ABRG5-3,74.5
+9_7.180821,Gloeomargarita lithophora Alchichica-D10,75.9
+9_7.180821,Chloroflexus aggregans DSM 9485,99.7
+9_7.180821,Chloroflexus islandicus strain isl-2,97.2
+9_7.180821,Candidatus Thermochlorobacteriaceae bacterium GBChlB,73.4
+9_7.180821,Meiothermus silvanus DSM 9946,74.9
+9_7.180821,Pseudothermotoga lettingae TMO,72.5
+9_7.180821,Caldimicrobium thiodismutans strain TF1,72.2
+9_7.180821,Elioraea tepidiphila DSM 17972,75.8
+9_7.180821,Thermus brockianus strain GE-1,76.2
+9_7.180821,Thermus aquaticus Y51MC23,76.2
+9_7.180821,Meiothermus ruber DSM 1279,75.6
+9_7.180821,Meiothermus taiwanensis WR-220,75.6
+9_7.180821,Chloroflexus aurantiacus Y-400-fl,95.4
+9_7.180821,Chloroflexus aurantiacus J-10-fl,95.4
+9_7.180821,Chloroflexus sp. Y-396-1,95.4
+9_7.180821,Chloroflexus sp. MS-G,95
+9_7.180821,Oscillochloris trichoides DG-6,87.9
+9_7.180821,Ignavibacterium album JCM 16511,72.5
+9_7.180821,Candidatus Solibacter usitatus Ellin6076,74.9
+10_5.428072,Roseiflexus sp. RS-1,73.5
+10_5.428072,Roseiflexus castenholzii DSM 13941,73.7
+10_5.428072,Thermodesulfovibrio sp. N1,76.8
+10_5.428072,Thermodesulfovibrio thiophilus DSM 17215,77.1
+10_5.428072,Pseudothermotoga hypogea DSM 11164 = NBRC 106472,74.2
+10_5.428072,Thermocrinis ruber strain DSM 23557,74.2
+10_5.428072,Synechococcus sp. JA-2-3B'a(2-13),78.9
+10_5.428072,Synechococcus sp. JA-3-3Ab,78.5
+10_5.428072,Chloracidobacterium thermophilum B,76
+10_5.428072,Pseudanabaena sp. PCC 7367,77.3
+10_5.428072,Pseudanabaena sp. ABRG5-3,78
+10_5.428072,Gloeomargarita lithophora Alchichica-D10,76.6
+10_5.428072,Chloroflexus aggregans DSM 9485,73.5
+10_5.428072,Chloroflexus islandicus strain isl-2,74.1
+10_5.428072,Candidatus Thermochlorobacteriaceae bacterium GBChlB,100
+10_5.428072,Meiothermus silvanus DSM 9946,78.8
+10_5.428072,Pseudothermotoga lettingae TMO,74.4
+10_5.428072,Caldimicrobium thiodismutans strain TF1,76.1
+10_5.428072,Elioraea tepidiphila DSM 17972,76.8
+10_5.428072,Thermus brockianus strain GE-1,77.1
+10_5.428072,Thermus aquaticus Y51MC23,77.5
+10_5.428072,Meiothermus ruber DSM 1279,79.1
+10_5.428072,Meiothermus taiwanensis WR-220,79
+10_5.428072,Chloroflexus aurantiacus Y-400-fl,74.4
+10_5.428072,Chloroflexus aurantiacus J-10-fl,74.4
+10_5.428072,Chloroflexus sp. Y-396-1,74.1
+10_5.428072,Chloroflexus sp. MS-G,73.8
+10_5.428072,Oscillochloris trichoides DG-6,76.6
+10_5.428072,Ignavibacterium album JCM 16511,81
+10_5.428072,Candidatus Solibacter usitatus Ellin6076,76.7
+11_2.448442,Roseiflexus sp. RS-1,76.4
+11_2.448442,Roseiflexus castenholzii DSM 13941,76
+11_2.448442,Thermodesulfovibrio sp. N1,78.2
+11_2.448442,Thermodesulfovibrio thiophilus DSM 17215,77.1
+11_2.448442,Pseudothermotoga hypogea DSM 11164 = NBRC 106472,75.5
+11_2.448442,Thermocrinis ruber strain DSM 23557,73.8
+11_2.448442,Synechococcus sp. JA-2-3B'a(2-13),77.6
+11_2.448442,Synechococcus sp. JA-3-3Ab,78.1
+11_2.448442,Chloracidobacterium thermophilum B,76.4
+11_2.448442,Pseudanabaena sp. PCC 7367,77.1
+11_2.448442,Pseudanabaena sp. ABRG5-3,77.2
+11_2.448442,Gloeomargarita lithophora Alchichica-D10,78.4
+11_2.448442,Chloroflexus aggregans DSM 9485,75.1
+11_2.448442,Chloroflexus islandicus strain isl-2,76.2
+11_2.448442,Candidatus Thermochlorobacteriaceae bacterium GBChlB,78.8
+11_2.448442,Meiothermus silvanus DSM 9946,100
+11_2.448442,Pseudothermotoga lettingae TMO,74.9
+11_2.448442,Caldimicrobium thiodismutans strain TF1,76.9
+11_2.448442,Elioraea tepidiphila DSM 17972,77.2
+11_2.448442,Thermus brockianus strain GE-1,85.9
+11_2.448442,Thermus aquaticus Y51MC23,85.8
+11_2.448442,Meiothermus ruber DSM 1279,89.6
+11_2.448442,Meiothermus taiwanensis WR-220,89.8
+11_2.448442,Chloroflexus aurantiacus Y-400-fl,76.3
+11_2.448442,Chloroflexus aurantiacus J-10-fl,76.3
+11_2.448442,Chloroflexus sp. Y-396-1,76.2
+11_2.448442,Chloroflexus sp. MS-G,75.9
+11_2.448442,Oscillochloris trichoides DG-6,76.1
+11_2.448442,Ignavibacterium album JCM 16511,75.5
+11_2.448442,Candidatus Solibacter usitatus Ellin6076,76.6
+12_2.797460,Roseiflexus sp. RS-1,73.1
+12_2.797460,Roseiflexus castenholzii DSM 13941,73
+12_2.797460,Thermodesulfovibrio sp. N1,78.2
+12_2.797460,Thermodesulfovibrio thiophilus DSM 17215,77.7
+12_2.797460,Pseudothermotoga hypogea DSM 11164 = NBRC 106472,94
+12_2.797460,Thermocrinis ruber strain DSM 23557,77.5
+12_2.797460,Synechococcus sp. JA-2-3B'a(2-13),76.1
+12_2.797460,Synechococcus sp. JA-3-3Ab,76.1
+12_2.797460,Chloracidobacterium thermophilum B,75.5
+12_2.797460,Pseudanabaena sp. PCC 7367,74.4
+12_2.797460,Pseudanabaena sp. ABRG5-3,73.7
+12_2.797460,Gloeomargarita lithophora Alchichica-D10,74.8
+12_2.797460,Chloroflexus aggregans DSM 9485,72.5
+12_2.797460,Chloroflexus islandicus strain isl-2,72.6
+12_2.797460,Candidatus Thermochlorobacteriaceae bacterium GBChlB,74.4
+12_2.797460,Meiothermus silvanus DSM 9946,74.9
+12_2.797460,Pseudothermotoga lettingae TMO,99.9
+12_2.797460,Caldimicrobium thiodismutans strain TF1,79.4
+12_2.797460,Elioraea tepidiphila DSM 17972,75.1
+12_2.797460,Thermus brockianus strain GE-1,77.4
+12_2.797460,Thermus aquaticus Y51MC23,77
+12_2.797460,Meiothermus ruber DSM 1279,74.5
+12_2.797460,Meiothermus taiwanensis WR-220,74.4
+12_2.797460,Chloroflexus aurantiacus Y-400-fl,73.2
+12_2.797460,Chloroflexus aurantiacus J-10-fl,73.2
+12_2.797460,Chloroflexus sp. Y-396-1,73.2
+12_2.797460,Chloroflexus sp. MS-G,72.9
+12_2.797460,Oscillochloris trichoides DG-6,72.3
+12_2.797460,Ignavibacterium album JCM 16511,76.8
+12_2.797460,Candidatus Solibacter usitatus Ellin6076,75.6
+13_2.032978,Roseiflexus sp. RS-1,73.3
+13_2.032978,Roseiflexus castenholzii DSM 13941,73.3
+13_2.032978,Thermodesulfovibrio sp. N1,79.3
+13_2.032978,Thermodesulfovibrio thiophilus DSM 17215,78.4
+13_2.032978,Pseudothermotoga hypogea DSM 11164 = NBRC 106472,79.7
+13_2.032978,Thermocrinis ruber strain DSM 23557,78.1
+13_2.032978,Synechococcus sp. JA-2-3B'a(2-13),75.8
+13_2.032978,Synechococcus sp. JA-3-3Ab,75.7
+13_2.032978,Chloracidobacterium thermophilum B,75.6
+13_2.032978,Pseudanabaena sp. PCC 7367,75
+13_2.032978,Pseudanabaena sp. ABRG5-3,75.4
+13_2.032978,Gloeomargarita lithophora Alchichica-D10,76
+13_2.032978,Chloroflexus aggregans DSM 9485,72
+13_2.032978,Chloroflexus islandicus strain isl-2,72.3
+13_2.032978,Candidatus Thermochlorobacteriaceae bacterium GBChlB,76.1
+13_2.032978,Meiothermus silvanus DSM 9946,76.7
+13_2.032978,Pseudothermotoga lettingae TMO,79.1
+13_2.032978,Caldimicrobium thiodismutans strain TF1,99.7
+13_2.032978,Elioraea tepidiphila DSM 17972,77
+13_2.032978,Thermus brockianus strain GE-1,78.6
+13_2.032978,Thermus aquaticus Y51MC23,78.1
+13_2.032978,Meiothermus ruber DSM 1279,75.4
+13_2.032978,Meiothermus taiwanensis WR-220,76
+13_2.032978,Chloroflexus aurantiacus Y-400-fl,73.8
+13_2.032978,Chloroflexus aurantiacus J-10-fl,73.8
+13_2.032978,Chloroflexus sp. Y-396-1,73.2
+13_2.032978,Chloroflexus sp. MS-G,73.6
+13_2.032978,Oscillochloris trichoides DG-6,72.1
+13_2.032978,Ignavibacterium album JCM 16511,76.8
+13_2.032978,Candidatus Solibacter usitatus Ellin6076,75.5
+14_1.814364,Roseiflexus sp. RS-1,75.8
+14_1.814364,Roseiflexus castenholzii DSM 13941,76.5
+14_1.814364,Thermodesulfovibrio sp. N1,79.7
+14_1.814364,Thermodesulfovibrio thiophilus DSM 17215,79.7
+14_1.814364,Pseudothermotoga hypogea DSM 11164 = NBRC 106472,75.4
+14_1.814364,Thermocrinis ruber strain DSM 23557,74.9
+14_1.814364,Synechococcus sp. JA-2-3B'a(2-13),80
+14_1.814364,Synechococcus sp. JA-3-3Ab,79.3
+14_1.814364,Chloracidobacterium thermophilum B,78.6
+14_1.814364,Pseudanabaena sp. PCC 7367,78.1
+14_1.814364,Pseudanabaena sp. ABRG5-3,78.8
+14_1.814364,Gloeomargarita lithophora Alchichica-D10,78.9
+14_1.814364,Chloroflexus aggregans DSM 9485,75.4
+14_1.814364,Chloroflexus islandicus strain isl-2,76
+14_1.814364,Candidatus Thermochlorobacteriaceae bacterium GBChlB,76.3
+14_1.814364,Meiothermus silvanus DSM 9946,76.9
+14_1.814364,Pseudothermotoga lettingae TMO,74.9
+14_1.814364,Caldimicrobium thiodismutans strain TF1,77
+14_1.814364,Elioraea tepidiphila DSM 17972,99.6
+14_1.814364,Thermus brockianus strain GE-1,77
+14_1.814364,Thermus aquaticus Y51MC23,76.8
+14_1.814364,Meiothermus ruber DSM 1279,76.8
+14_1.814364,Meiothermus taiwanensis WR-220,77.1
+14_1.814364,Chloroflexus aurantiacus Y-400-fl,76.1
+14_1.814364,Chloroflexus aurantiacus J-10-fl,76.1
+14_1.814364,Chloroflexus sp. Y-396-1,76
+14_1.814364,Chloroflexus sp. MS-G,75.8
+14_1.814364,Oscillochloris trichoides DG-6,75.9
+14_1.814364,Ignavibacterium album JCM 16511,76.6
+14_1.814364,Candidatus Solibacter usitatus Ellin6076,78.5
+15_9.677378,Roseiflexus sp. RS-1,75.6
+15_9.677378,Roseiflexus castenholzii DSM 13941,75.6
+15_9.677378,Thermodesulfovibrio sp. N1,78.1
+15_9.677378,Thermodesulfovibrio thiophilus DSM 17215,76.7
+15_9.677378,Pseudothermotoga hypogea DSM 11164 = NBRC 106472,78.2
+15_9.677378,Thermocrinis ruber strain DSM 23557,76
+15_9.677378,Synechococcus sp. JA-2-3B'a(2-13),76.7
+15_9.677378,Synechococcus sp. JA-3-3Ab,77.4
+15_9.677378,Chloracidobacterium thermophilum B,74.7
+15_9.677378,Pseudanabaena sp. PCC 7367,75.5
+15_9.677378,Pseudanabaena sp. ABRG5-3,75.5
+15_9.677378,Gloeomargarita lithophora Alchichica-D10,76.2
+15_9.677378,Chloroflexus aggregans DSM 9485,76.2
+15_9.677378,Chloroflexus islandicus strain isl-2,76
+15_9.677378,Candidatus Thermochlorobacteriaceae bacterium GBChlB,77.1
+15_9.677378,Meiothermus silvanus DSM 9946,85.9
+15_9.677378,Pseudothermotoga lettingae TMO,77.4
+15_9.677378,Caldimicrobium thiodismutans strain TF1,78.8
+15_9.677378,Elioraea tepidiphila DSM 17972,77.1
+15_9.677378,Thermus brockianus strain GE-1,100
+15_9.677378,Thermus aquaticus Y51MC23,96.4
+15_9.677378,Meiothermus ruber DSM 1279,85.4
+15_9.677378,Meiothermus taiwanensis WR-220,85.9
+15_9.677378,Chloroflexus aurantiacus Y-400-fl,76.4
+15_9.677378,Chloroflexus aurantiacus J-10-fl,76.4
+15_9.677378,Chloroflexus sp. Y-396-1,76.6
+15_9.677378,Chloroflexus sp. MS-G,75.9
+15_9.677378,Oscillochloris trichoides DG-6,74.9
+15_9.677378,Ignavibacterium album JCM 16511,76.7
+15_9.677378,Candidatus Solibacter usitatus Ellin6076,76
+16_20.317515,Roseiflexus sp. RS-1,75.9
+16_20.317515,Roseiflexus castenholzii DSM 13941,76
+16_20.317515,Thermodesulfovibrio sp. N1,75.7
+16_20.317515,Thermodesulfovibrio thiophilus DSM 17215,75
+16_20.317515,Pseudothermotoga hypogea DSM 11164 = NBRC 106472,75
+16_20.317515,Thermocrinis ruber strain DSM 23557,73.3
+16_20.317515,Synechococcus sp. JA-2-3B'a(2-13),77.7
+16_20.317515,Synechococcus sp. JA-3-3Ab,78
+16_20.317515,Chloracidobacterium thermophilum B,75.7
+16_20.317515,Pseudanabaena sp. PCC 7367,76.9
+16_20.317515,Pseudanabaena sp. ABRG5-3,77.5
+16_20.317515,Gloeomargarita lithophora Alchichica-D10,77.6
+16_20.317515,Chloroflexus aggregans DSM 9485,75.6
+16_20.317515,Chloroflexus islandicus strain isl-2,76
+16_20.317515,Candidatus Thermochlorobacteriaceae bacterium GBChlB,79.1
+16_20.317515,Meiothermus silvanus DSM 9946,89.6
+16_20.317515,Pseudothermotoga lettingae TMO,74.3
+16_20.317515,Caldimicrobium thiodismutans strain TF1,75.6
+16_20.317515,Elioraea tepidiphila DSM 17972,77
+16_20.317515,Thermus brockianus strain GE-1,85.4
+16_20.317515,Thermus aquaticus Y51MC23,85.9
+16_20.317515,Meiothermus ruber DSM 1279,100
+16_20.317515,Meiothermus taiwanensis WR-220,99.7
+16_20.317515,Chloroflexus aurantiacus Y-400-fl,75.8
+16_20.317515,Chloroflexus aurantiacus J-10-fl,75.8
+16_20.317515,Chloroflexus sp. Y-396-1,76.2
+16_20.317515,Chloroflexus sp. MS-G,75.6
+16_20.317515,Oscillochloris trichoides DG-6,75.7
+16_20.317515,Ignavibacterium album JCM 16511,76.3
+16_20.317515,Candidatus Solibacter usitatus Ellin6076,75.6
+17_12.182661,Roseiflexus sp. RS-1,84.8
+17_12.182661,Roseiflexus castenholzii DSM 13941,84.5
+17_12.182661,Thermodesulfovibrio sp. N1,75.7
+17_12.182661,Thermodesulfovibrio thiophilus DSM 17215,74.7
+17_12.182661,Pseudothermotoga hypogea DSM 11164 = NBRC 106472,73.2
+17_12.182661,Thermocrinis ruber strain DSM 23557,73.7
+17_12.182661,Synechococcus sp. JA-2-3B'a(2-13),76.4
+17_12.182661,Synechococcus sp. JA-3-3Ab,76.7
+17_12.182661,Chloracidobacterium thermophilum B,74.9
+17_12.182661,Pseudanabaena sp. PCC 7367,74.2
+17_12.182661,Pseudanabaena sp. ABRG5-3,74.6
+17_12.182661,Gloeomargarita lithophora Alchichica-D10,76.5
+17_12.182661,Chloroflexus aggregans DSM 9485,95.5
+17_12.182661,Chloroflexus islandicus strain isl-2,95.7
+17_12.182661,Candidatus Thermochlorobacteriaceae bacterium GBChlB,75.7
+17_12.182661,Meiothermus silvanus DSM 9946,76.4
+17_12.182661,Pseudothermotoga lettingae TMO,73.4
+17_12.182661,Caldimicrobium thiodismutans strain TF1,73.9
+17_12.182661,Elioraea tepidiphila DSM 17972,76.1
+17_12.182661,Thermus brockianus strain GE-1,76.2
+17_12.182661,Thermus aquaticus Y51MC23,76.4
+17_12.182661,Meiothermus ruber DSM 1279,75.6
+17_12.182661,Meiothermus taiwanensis WR-220,75.9
+17_12.182661,Chloroflexus aurantiacus Y-400-fl,99.5
+17_12.182661,Chloroflexus aurantiacus J-10-fl,99.5
+17_12.182661,Chloroflexus sp. Y-396-1,95.6
+17_12.182661,Chloroflexus sp. MS-G,95.4
+17_12.182661,Oscillochloris trichoides DG-6,88.7
+17_12.182661,Ignavibacterium album JCM 16511,72.4
+17_12.182661,Candidatus Solibacter usitatus Ellin6076,75.5
+19_2.453918,Roseiflexus sp. RS-1,73.5
+19_2.453918,Roseiflexus castenholzii DSM 13941,73.9
+19_2.453918,Thermodesulfovibrio sp. N1,78.9
+19_2.453918,Thermodesulfovibrio thiophilus DSM 17215,78.1
+19_2.453918,Pseudothermotoga hypogea DSM 11164 = NBRC 106472,76.2
+19_2.453918,Thermocrinis ruber strain DSM 23557,73.4
+19_2.453918,Synechococcus sp. JA-2-3B'a(2-13),76.3
+19_2.453918,Synechococcus sp. JA-3-3Ab,75.8
+19_2.453918,Chloracidobacterium thermophilum B,78
+19_2.453918,Pseudanabaena sp. PCC 7367,75.8
+19_2.453918,Pseudanabaena sp. ABRG5-3,76.8
+19_2.453918,Gloeomargarita lithophora Alchichica-D10,76.4
+19_2.453918,Chloroflexus aggregans DSM 9485,72.1
+19_2.453918,Chloroflexus islandicus strain isl-2,72.2
+19_2.453918,Candidatus Thermochlorobacteriaceae bacterium GBChlB,83
+19_2.453918,Meiothermus silvanus DSM 9946,75.5
+19_2.453918,Pseudothermotoga lettingae TMO,76
+19_2.453918,Caldimicrobium thiodismutans strain TF1,76.6
+19_2.453918,Elioraea tepidiphila DSM 17972,76.5
+19_2.453918,Thermus brockianus strain GE-1,76.8
+19_2.453918,Thermus aquaticus Y51MC23,76.6
+19_2.453918,Meiothermus ruber DSM 1279,75.7
+19_2.453918,Meiothermus taiwanensis WR-220,75.4
+19_2.453918,Chloroflexus aurantiacus Y-400-fl,72.3
+19_2.453918,Chloroflexus aurantiacus J-10-fl,72.3
+19_2.453918,Chloroflexus sp. Y-396-1,72.8
+19_2.453918,Chloroflexus sp. MS-G,72.5
+19_2.453918,Oscillochloris trichoides DG-6,74.5
+19_2.453918,Ignavibacterium album JCM 16511,99.6
+19_2.453918,Candidatus Solibacter usitatus Ellin6076,76.4
+21_2.018788,Roseiflexus sp. RS-1,73.8
+21_2.018788,Roseiflexus castenholzii DSM 13941,74.1
+21_2.018788,Thermodesulfovibrio sp. N1,80.1
+21_2.018788,Thermodesulfovibrio thiophilus DSM 17215,79.2
+21_2.018788,Pseudothermotoga hypogea DSM 11164 = NBRC 106472,77
+21_2.018788,Thermocrinis ruber strain DSM 23557,75.2
+21_2.018788,Synechococcus sp. JA-2-3B'a(2-13),77.7
+21_2.018788,Synechococcus sp. JA-3-3Ab,78.1
+21_2.018788,Chloracidobacterium thermophilum B,81.8
+21_2.018788,Pseudanabaena sp. PCC 7367,78
+21_2.018788,Pseudanabaena sp. ABRG5-3,78.6
+21_2.018788,Gloeomargarita lithophora Alchichica-D10,77
+21_2.018788,Chloroflexus aggregans DSM 9485,75.5
+21_2.018788,Chloroflexus islandicus strain isl-2,75.8
+21_2.018788,Candidatus Thermochlorobacteriaceae bacterium GBChlB,76.9
+21_2.018788,Meiothermus silvanus DSM 9946,78
+21_2.018788,Pseudothermotoga lettingae TMO,77.1
+21_2.018788,Caldimicrobium thiodismutans strain TF1,78.2
+21_2.018788,Elioraea tepidiphila DSM 17972,79.3
+21_2.018788,Thermus brockianus strain GE-1,77.8
+21_2.018788,Thermus aquaticus Y51MC23,78.2
+21_2.018788,Meiothermus ruber DSM 1279,77.9
+21_2.018788,Meiothermus taiwanensis WR-220,78.8
+21_2.018788,Chloroflexus aurantiacus Y-400-fl,75.8
+21_2.018788,Chloroflexus aurantiacus J-10-fl,75.8
+21_2.018788,Chloroflexus sp. Y-396-1,75.7
+21_2.018788,Chloroflexus sp. MS-G,75.6
+21_2.018788,Oscillochloris trichoides DG-6,76.1
+21_2.018788,Ignavibacterium album JCM 16511,79.5
+21_2.018788,Candidatus Solibacter usitatus Ellin6076,99.7

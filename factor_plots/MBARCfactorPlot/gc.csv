@@ -1,0 +1,27 @@
+Species,Whole Genome,16S,Phylo Hit,DeLUCS Hit
+Clostridium_perfringens,28.38,52.68,1,1
+Clostridium_thermocellum,38.99,55.1,1,1
+Coraliomargarita_akajimensis,53.6,53.84,1,1
+Corynebacterium_glutamicum,53.81,56.62,1,1
+Desulfosporosinus_acidiphilus,42.11,54.73,1,1
+Desulfosporosinus_meridiei,41.78,53.93,1,1
+Desulfotomaculum_gibsoniae,45.49,54.99,1,1
+E.coli,50.79,54.58,0,1
+Echinicola_vietnamensis,44.75,56.09,1,1
+Fervidobacterium_pennivorans,38.88,61.29,0,1
+Frateuria_aurantia,63.4,55.03,1,1
+Halovivax_ruber,64.34,58.66,1,1
+Hirschia_baltica,45.19,52.54,1,1
+Meiothermus_silvanus,62.72,58.93,1,1
+Natronobacterium_gregoryi,62.24,58.93,1,1
+Natronococcus_occultus,64.66,59.31,1,1
+Nocardiopsis_dassonvillei,72.73,58.53,0,1
+Olsenella_uli,64.7,63.86,1,0
+Pseudomonas_stutzeri,62.49,53.91,1,1
+Salmonella_bongori,51.33,55.15,0,0
+Salmonella_enterica,51.38,54.86,1,1
+Segniliparus_rotundus,66.79,58.36,1,0
+Spirochaeta_smaragdinae,48.97,55.54,1,1
+Streptococcus_pyogenes,38.51,52.71,1,0
+Terriglobus_roseus,60.28,54.54,1,1
+Thermobacillus_composti,60.12,57.75,1,1
